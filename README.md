@@ -1,0 +1,4 @@
+# Dotfile
+
+zsh
+hyprland
